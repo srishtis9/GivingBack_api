@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="pledges with wait" errors="0" tests="1" failures="0" time="4.036" timestamp="2017-10-19T15:05:57">
+  <testcase classname="pledges with wait" name="pledging" time="2.014"></testcase>
+</testsuite>
+</testsuites>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="the pledge count should increase" errors="0" tests="1" failures="0" time="3.722" timestamp="2017-10-21T10:31:30">
+  <testcase classname="the pledge count should increase" name="making the pledge" time="3.718"></testcase>
+</testsuite>
+</testsuites>
