@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<testsuites>
-<testsuite name="verifies the metrics" errors="0" tests="1" failures="0" time="0.574" timestamp="2017-10-23T19:23:54">
-  <testcase classname="verifies the metrics" name="verify the fund " time="0.572"></testcase>
-</testsuite>
-</testsuites>

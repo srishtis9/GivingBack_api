@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<testsuites>
-<testsuite name="total pledge count should increase" errors="0" tests="3" failures="0" time="1.397" timestamp="2017-10-16T17:19:59">
-  <testcase classname="total pledge count should increase" name="pledge count before" time="0.484"></testcase>
-  <testcase classname="total pledge count should increase" name="pledging for a piece" time="0.46"></testcase>
-  <testcase classname="total pledge count should increase" name="pledge count after" time="0.453"></testcase>
-</testsuite>
-</testsuites>

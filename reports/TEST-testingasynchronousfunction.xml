@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<testsuites>
-<testsuite name="testing asynchronous function" errors="0" tests="1" failures="0" time="1.064" timestamp="2017-10-16T21:50:32">
-  <testcase classname="testing asynchronous function" name="verify if the piece is unlocked" time="1.064"></testcase>
-</testsuite>
-</testsuites>

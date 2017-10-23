@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<testsuites>
-<testsuite name="unlocking  piece" errors="0" tests="1" failures="1" time="7.84" timestamp="2017-10-14T10:54:30">
-  <testcase classname="unlocking  piece" name="unlocking the piece" time="7.84"><failure type="expect" message="timeout: timed out after 5000 msec waiting for spec to complete">timeout: timed out after 5000 msec waiting for spec to complete</failure></testcase>
-</testsuite>
-</testsuites>

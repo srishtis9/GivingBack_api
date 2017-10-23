@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<testsuites>
-<testsuite name="concurrent pledging" errors="0" tests="1" failures="0" time="0.015" timestamp="2017-10-23T15:45:47">
-  <testcase classname="concurrent pledging" name="making concurrent 9th pledge" time="0.015"></testcase>
-</testsuite>
-</testsuites>
