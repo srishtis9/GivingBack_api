@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuites>
-<testsuite name="operations on unlocked piece" errors="0" tests="1" failures="0" time="1.755" timestamp="2017-10-21T10:31:51">
-  <testcase classname="operations on unlocked piece" name="pledging for an unlocked piece" time="1.753"></testcase>
+<testsuite name="operations on unlocked piece" errors="0" tests="1" failures="0" time="1.06" timestamp="2017-10-23T11:13:17">
+  <testcase classname="operations on unlocked piece" name="pledging for an unlocked piece" time="1.057"></testcase>
 </testsuite>
 </testsuites>

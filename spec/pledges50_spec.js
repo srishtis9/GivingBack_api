@@ -39,7 +39,7 @@ describe('making another 2500 pledges',function(){
 });
 	});
 	
-		sleep(2000);
+		sleep(500);
 });
 done();
 	});

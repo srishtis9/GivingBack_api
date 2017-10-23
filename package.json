@@ -12,7 +12,8 @@
     "test5": "./node_modules/.bin/jasmine-node --captureExceptions spec/p25verify_spec.js --junitreport",
     "test6": "./node_modules/.bin/jasmine-node --captureExceptions spec/pledges50_spec.js --junitreport",
 	"test7": "./node_modules/.bin/jasmine-node --captureExceptions spec/pledges502_spec.js --junitreport",
-    "test8": "./node_modules/.bin/jasmine-node --captureExceptions spec/p50verify_spec.js --junitreport"
+    "test8": "./node_modules/.bin/jasmine-node --captureExceptions spec/p50verify_spec.js --junitreport",
+	"test9": "./node_modules/.bin/jasmine-node --captureExceptions spec/concurrentPledge_spec.js --junitreport"
     
   },
   "author": "srishti",

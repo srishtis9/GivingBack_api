@@ -33,13 +33,13 @@ describe('making another 2500 pledges',function(){
 	if(!error && response.statusCode == 200){
 		console.log(response.statusCode);
 	}
-	else{console.log(body.status);
+	else{console.log(body);
 			
 	    }
 });
 	});
 	
-		sleep(2000);
+		sleep(500);
 });
 done();
 	});

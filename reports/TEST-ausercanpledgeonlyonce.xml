@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuites>
-<testsuite name="a user can pledge only once" errors="0" tests="1" failures="0" time="1.633" timestamp="2017-10-21T10:31:22">
-  <testcase classname="a user can pledge only once" name="user cannot pledge again" time="1.632"></testcase>
+<testsuite name="a user can pledge only once" errors="0" tests="1" failures="0" time="1.075" timestamp="2017-10-23T11:12:44">
+  <testcase classname="a user can pledge only once" name="user cannot pledge again" time="1.073"></testcase>
 </testsuite>
 </testsuites>
