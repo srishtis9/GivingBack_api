@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="a piece is unlocked after reqired no of pledges" errors="0" tests="1" failures="0" time="0.497" timestamp="2017-10-16T15:18:18">
+  <testcase classname="a piece is unlocked after reqired no of pledges" name="verify if the piece is unlocked" time="0.497"></testcase>
+</testsuite>
+</testsuites>
