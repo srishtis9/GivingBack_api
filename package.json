@@ -4,16 +4,16 @@
   "description": "api testing",
   "main": "index.js",
   "scripts": {
-	"test0": "./node_modules/.bin/jasmine-node --captureExceptions spec/singleUserPledge_spec.js --junitreport",
-	"test1": "./node_modules/.bin/jasmine-node --captureExceptions spec/pledgecount_spec.js --junitreport",
-    "test2": "./node_modules/.bin/jasmine-node --captureExceptions spec/unlockPiece_spec.js --junitreport",
-    "test3": "./node_modules/.bin/jasmine-node --captureExceptions spec/unlockPieceOp_spec.js --junitreport",
-    "test4": "./node_modules/.bin/jasmine-node --captureExceptions spec/pledges25_spec.js --junitreport",
-    "test5": "./node_modules/.bin/jasmine-node --captureExceptions spec/p25verify_spec.js --junitreport",
-    "test6": "./node_modules/.bin/jasmine-node --captureExceptions spec/pledges50_spec.js --junitreport",
-	"test7": "./node_modules/.bin/jasmine-node --captureExceptions spec/pledges502_spec.js --junitreport",
-    "test8": "./node_modules/.bin/jasmine-node --captureExceptions spec/p50verify_spec.js --junitreport",
-	"test9": "./node_modules/.bin/jasmine-node --captureExceptions spec/concurrentPledge_spec.js --junitreport"
+	"test0": "./node_modules/.bin/jasmine-node --captureExceptions spec/singleUserPledge_spec.js --junitreport --output allure-report",
+	"test1": "./node_modules/.bin/jasmine-node --captureExceptions spec/pledgecount_spec.js --junitreport --output allure-report",
+    "test2": "./node_modules/.bin/jasmine-node --captureExceptions spec/unlockPiece_spec.js --junitreport --output allure-report",
+    "test3": "./node_modules/.bin/jasmine-node --captureExceptions spec/unlockPieceOp_spec.js --junitreport --output allure-report",
+    "test4": "./node_modules/.bin/jasmine-node --captureExceptions spec/pledges25_spec.js --junitreport --output allure-report",
+    "test5": "./node_modules/.bin/jasmine-node --captureExceptions spec/p25verify_spec.js --junitreport --output allure-report",
+    "test6": "./node_modules/.bin/jasmine-node --captureExceptions spec/pledges50_spec.js --junitreport --output allure-report",
+	"test7": "./node_modules/.bin/jasmine-node --captureExceptions spec/pledges502_spec.js --junitreport --output allure-report",
+    "test8": "./node_modules/.bin/jasmine-node --captureExceptions spec/p50verify_spec.js --junitreport --output allure-report",
+	"test9": "./node_modules/.bin/jasmine-node --captureExceptions spec/concurrentPledge_spec.js --junitreport --output allure-report"
     
   },
   "author": "srishti",
